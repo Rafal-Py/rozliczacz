@@ -1,0 +1,127 @@
+ Plik:                                   1072.txt
+ Zawartoœæ pliku:                    DANE WYDRUKU
+ Wersja pliku:                           1.00.010
+ Typ urz¹dzenia:                 KASA E  1.00.001
+ Rozmiar linii:                                48
+ Urz¹dzenie:                          NANO E 1.00
+ Nr unikatowy:                        BAV11006958
+ Wersja Kopii E:                         1.00.002
+ Noœnik Kopii E:                           SDCARD
+ Plik utworzono:                 22-01-2019 09:01
+ Nr raportu:                                 1072
+ Data raportu:                   22-01-2019 00:00
+ Data wydruku od:                21-01-2019 14:44
+ Data wydruku do:                22-01-2019 09:01
+ Nr wydruku od:                              8096
+ Nr wydruku do:                              8097
+ Data paragonu od:               21-01-2019 14:44
+ Data paragonu do:               21-01-2019 14:44
+ Nr paragonu od:                             6986
+ Nr paragonu do:                             6986
+ Data faktury od:                00-00-0000 00:00
+ Data faktury do:                00-00-0000 00:00
+ Nr faktury od:                                 0
+ Nr faktury do:                                 0
+ Nr zerowania od:                               0
+ Nr zerowania do:                               0
+ Rozmiar Nag³ówka Pliku:                     1734
+ Rozmiar etykiet danych:                      153
+ Offset Danych Wydruku:                      1887
+ Rozmiar Danych Wydruku:                     4080
+ Offset Spisu Treœci:                        6273
+ Rozmiar Spisu Treœci:                        102
+ Podpis N:       625949595edb6c04f820242cfe066345
+ Podpis NP:      e32ea0720f0d9f1443c2994f82e4fae3
+                                                 
+ DANE WYDRUKÓW:                                  
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©¤
+ 21-01-2019¸                             °W008096
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.      « P A R A G O N   F I S K A L N Y «       
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Bilet wstêpu 1*40.00                     ¨40.00B
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ RAZEM:                                    40.00 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.B: 40.00 PTU 8.00%                   ‘2.96
+ SUMA PTU                                   ´2.96
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.S U M A :                     P L N · 4 0 . 0 0 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ F6986¦ #1 8.Administrator                 ¡14:44
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       4995FD943BA92A22292099C0B7FE9457 0A¬      
+                    »BAV 11006958                
+ Gotówka:                                   40.00
+ ‡CRC:318A9B05                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©§
+ 22-01-2019                              °W008097
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.  R A P O R T   F I S K A L N Y   D O B O W Y   
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ PTU  A                                    23.00%
+ PTU  B                                     8.00%
+ PTU  C                                     0.00%
+ PTU  D                                     5.00%
+ PTU  E                                     0.00%
+ PTU  F                                     0.00%
+ G                                      SP.ZW.PTU
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 22-01-2019                     Nr raportu:  1072
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.A                                     0.00
+ SP.OP.B                                    37.04
+ SP.OP.C                                     0.00
+ SP.OP.D                                     0.00
+ SP.OP.E                                     0.00
+ SP.OP.F                                     0.00
+ SP.ZW.G                                     0.00
+ Kwota PTU A                                 0.00
+ Kwota PTU B                                 2.96
+ Kwota PTU D                                 0.00
+ SUMA PTU                                   ´2.96
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Nale¿noœæ:                             PLN 40.00
+ Iloœæ paragonów:                               1
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   NARASTAJ¥CO                   
+ Kwota PTU A                               654.50
+ Kwota PTU B                             27172.48
+ Kwota PTU D                                 0.00
+ SUMA PTU                               ´27826.98
+ Nale¿noœæ:                         PLN 370334.80
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Iloœæ pozycji:                                27
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ #1 8.Administrator                        ¡09:01
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       FFF8628BE749490F1ED3D899EC2EC730 40¬      
+                    »BAV 11006958                
+ ‡CRC:1625AD9C                                   
+                                                 
+                                                 
+                                                 
+ P:a1254635fd3d633d514d867d014cf880033479c7      
+ C:c09ba34acbbe51a4c52d2bc5b86da750              
+ DP:feefe4ade27b320f9ccf0e7e5bf0456d67a6e8c4     
+                                                 
+ SPIS TREŒCI:                                    
+                                                 
+ 21-01-2019 000008096 01 000006986 0000001887    
+ 22-01-2019 000008097 02 000001072 0000003315    
+ Podpis S:       e33f6607bb7c46d2e7abf8186a674dfc
+ Podpis SP:      967789b3de5acc3b7c0859c21fa2300b

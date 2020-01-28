@@ -1,0 +1,127 @@
+ Plik:                                   0210.txt
+ Zawartoœæ pliku:                    DANE WYDRUKU
+ Wersja pliku:                           1.00.010
+ Typ urz¹dzenia:                 KASA E  1.00.001
+ Rozmiar linii:                                48
+ Urz¹dzenie:                          NANO E 1.00
+ Nr unikatowy:                        BAV11006958
+ Wersja Kopii E:                         1.00.002
+ Noœnik Kopii E:                           SDCARD
+ Plik utworzono:                 26-02-2013 09:15
+ Nr raportu:                                  210
+ Data raportu:                   26-02-2013 00:00
+ Data wydruku od:                25-02-2013 16:28
+ Data wydruku do:                26-02-2013 09:15
+ Nr wydruku od:                              1727
+ Nr wydruku do:                              1728
+ Data paragonu od:               25-02-2013 16:28
+ Data paragonu do:               25-02-2013 16:28
+ Nr paragonu od:                             1514
+ Nr paragonu do:                             1514
+ Data faktury od:                00-00-0000 00:00
+ Data faktury do:                00-00-0000 00:00
+ Nr faktury od:                                 0
+ Nr faktury do:                                 0
+ Nr zerowania od:                               0
+ Nr zerowania do:                               0
+ Rozmiar Nag³ówka Pliku:                     1734
+ Rozmiar etykiet danych:                      153
+ Offset Danych Wydruku:                      1887
+ Rozmiar Danych Wydruku:                     4080
+ Offset Spisu Treœci:                        6273
+ Rozmiar Spisu Treœci:                        102
+ Podpis N:       3fbaa942664038544c663bdc2ef4a18c
+ Podpis NP:      1ee97a00070a0899cd61b1d6d9bb379e
+                                                 
+ DANE WYDRUKÓW:                                  
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©¤
+ 25-02-2013¸                             °W001727
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.      « P A R A G O N   F I S K A L N Y «       
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Bilet wstêpu 2*30.00                     ¨60.00B
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ RAZEM:                                    60.00 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.B: 60.00 PTU 8.00%                   ‘4.44
+ SUMA PTU                                   ´4.44
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.S U M A :                     P L N · 6 0 . 0 0 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ F1514¦ #1 8.Administrator                 ¡16:28
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       DAB0C29EBEB95B5D32AB28BC570A3CB8 1C¬      
+                    »BAV 11006958                
+ Gotówka:                                   60.00
+ ‡CRC:0A0CBA95                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©§
+ 26-02-2013                              °W001728
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.  R A P O R T   F I S K A L N Y   D O B O W Y   
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ PTU  A                                    23.00%
+ PTU  B                                     8.00%
+ PTU  C                                     0.00%
+ PTU  D                                     5.00%
+ PTU  E                                     0.00%
+ PTU  F                                     0.00%
+ G                                      SP.ZW.PTU
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 26-02-2013                     Nr raportu:  0210
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.A                                     0.00
+ SP.OP.B                                    55.56
+ SP.OP.C                                     0.00
+ SP.OP.D                                     0.00
+ SP.OP.E                                     0.00
+ SP.OP.F                                     0.00
+ SP.ZW.G                                     0.00
+ Kwota PTU A                                 0.00
+ Kwota PTU B                                 4.44
+ Kwota PTU D                                 0.00
+ SUMA PTU                                   ´4.44
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Nale¿noœæ:                             PLN 60.00
+ Iloœæ paragonów:                               1
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   NARASTAJ¥CO                   
+ Kwota PTU A                               149.60
+ Kwota PTU B                              7531.00
+ Kwota PTU D                                 0.00
+ SUMA PTU                                ´7680.60
+ Nale¿noœæ:                         PLN 102469.80
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Iloœæ pozycji:                                27
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ #1 8.Administrator                        ¡09:15
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       110D07832BAE60AA562E496A954C5004 FE¬      
+                    »BAV 11006958                
+ ‡CRC:33970EE5                                   
+                                                 
+                                                 
+                                                 
+ P:7fa8f094e635ce0b0c5391cd348b46967fc2d8a5      
+ C:d415bbe7256418cb221470b03d0203d6              
+ DP:b26d48755520e7e5622848e95be7550fa2ac92eb     
+                                                 
+ SPIS TREŒCI:                                    
+                                                 
+ 25-02-2013 000001727 01 000001514 0000001887    
+ 26-02-2013 000001728 02 000000210 0000003315    
+ Podpis S:       b607aa7319d03ca301ac3be1223100cb
+ Podpis SP:      2cafa86b041ade56b2b764c40f87c318

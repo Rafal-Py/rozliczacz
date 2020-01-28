@@ -1,0 +1,185 @@
+ Plik:                                   0009.txt
+ Zawartoœæ pliku:                    DANE WYDRUKU
+ Wersja pliku:                           1.00.010
+ Typ urz¹dzenia:                 KASA E  1.00.001
+ Rozmiar linii:                                48
+ Urz¹dzenie:                          NANO E 1.00
+ Nr unikatowy:                        BAV11006958
+ Wersja Kopii E:                         1.00.002
+ Noœnik Kopii E:                           SDCARD
+ Plik utworzono:                 31-05-2011 15:17
+ Nr raportu:                                    9
+ Data raportu:                   31-05-2011 00:00
+ Data wydruku od:                31-05-2011 08:43
+ Data wydruku do:                31-05-2011 15:17
+ Nr wydruku od:                                40
+ Nr wydruku do:                                43
+ Data paragonu od:               31-05-2011 08:43
+ Data paragonu do:               31-05-2011 11:21
+ Nr paragonu od:                               32
+ Nr paragonu do:                               34
+ Data faktury od:                00-00-0000 00:00
+ Data faktury do:                00-00-0000 00:00
+ Nr faktury od:                                 0
+ Nr faktury do:                                 0
+ Nr zerowania od:                               0
+ Nr zerowania do:                               0
+ Rozmiar Nag³ówka Pliku:                     1734
+ Rozmiar etykiet danych:                      153
+ Offset Danych Wydruku:                      1887
+ Rozmiar Danych Wydruku:                     6936
+ Offset Spisu Treœci:                        9129
+ Rozmiar Spisu Treœci:                        204
+ Podpis N:       e60c108f491d9a364c09c297f5cf0ddc
+ Podpis NP:      cf9108d078207c7f2133d70f2ebc3bab
+                                                 
+ DANE WYDRUKÓW:                                  
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©¤
+ 31-05-2011¸                             °W000040
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.      « P A R A G O N   F I S K A L N Y «       
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Bilet wstêpu 2*50.00                    ¨100.00B
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ RAZEM:                                   100.00 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.B: 100.00 PTU 8.00%                  ‘7.41
+ SUMA PTU                                   ´7.41
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.S U M A :                   P L N · 1 0 0 . 0 0 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ F32¦ #1 8.Administrator                   ¡08:43
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       19BFE7EF229C424A4C16339751AF1217 E2¬      
+                    »BAV 11006958                
+ Gotówka:                                  100.00
+ ‡CRC:083F6EF8                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©¤
+ 31-05-2011¸                             °W000041
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.      « P A R A G O N   F I S K A L N Y «       
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Bilet wstêpu 2*50.00                    ¨100.00B
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ RAZEM:                                   100.00 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.B: 100.00 PTU 8.00%                  ‘7.41
+ SUMA PTU                                   ´7.41
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.S U M A :                   P L N · 1 0 0 . 0 0 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ F33¦ #1 8.Administrator                   ¡08:45
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       7BD61767A1E353C221C4CB8B26F9EA64 05¬      
+                    »BAV 11006958                
+ Gotówka:                                  100.00
+ ‡CRC:26A455B8                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©¤
+ 31-05-2011¸                             °W000042
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.      « P A R A G O N   F I S K A L N Y «       
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ P³yty CD/DVD 21*20.00                   ¨420.00A
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ RAZEM:                                   420.00 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.A: 420.00 PTU 23.00%                ‘78.54
+ SUMA PTU                                  ´78.54
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.S U M A :                   P L N · 4 2 0 . 0 0 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ F34¦ #1 8.Administrator                   ¡11:21
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       E58EC980A6102C3EB71C9FF19B99327C F0¬      
+                    »BAV 11006958                
+ Gotówka:                                  420.00
+ ‡CRC:2D7E77E2                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©§
+ 31-05-2011                              °W000043
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.  R A P O R T   F I S K A L N Y   D O B O W Y   
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ PTU  A                                    23.00%
+ PTU  B                                     8.00%
+ PTU  C                                     0.00%
+ PTU  D                                     5.00%
+ PTU  E                                     0.00%
+ PTU  F                                     0.00%
+ G                                      SP.ZW.PTU
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 31-05-2011                     Nr raportu:  0009
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.A                                   341.46
+ SP.OP.B                                   185.19
+ SP.OP.C                                     0.00
+ SP.OP.D                                     0.00
+ SP.OP.E                                     0.00
+ SP.OP.F                                     0.00
+ SP.ZW.G                                     0.00
+ Kwota PTU A                                78.54
+ Kwota PTU B                                14.81
+ Kwota PTU D                                 0.00
+ SUMA PTU                                  ´93.35
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Nale¿noœæ:                            PLN 620.00
+ Iloœæ paragonów:                               3
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   NARASTAJ¥CO                   
+ Kwota PTU A                                78.54
+ Kwota PTU B                               117.03
+ Kwota PTU D                                 0.00
+ SUMA PTU                                 ´195.57
+ Nale¿noœæ:                           PLN 2000.00
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Iloœæ pozycji:                                27
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ #1 8.Administrator                        ¡15:17
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       DC0E13BA69093BCDEEAB9D105DC2D0AC 39¬      
+                    »BAV 11006958                
+ ‡CRC:05FE8D8F                                   
+                                                 
+                                                 
+                                                 
+ P:3f17992c9ed0478c6fe1fbf4a6cdbd63577e2b26      
+ C:0e8aa5aac610db494c418c380eee45ac              
+ DP:85a888ebefeb0bfa194c023d3c49492ea906cb3d     
+                                                 
+ SPIS TREŒCI:                                    
+                                                 
+ 31-05-2011 000000040 01 000000032 0000001887    
+ 31-05-2011 000000041 01 000000033 0000003315    
+ 31-05-2011 000000042 01 000000034 0000004743    
+ 31-05-2011 000000043 02 000000009 0000006171    
+ Podpis S:       46ff49cad399056ec2537e8010f9eb11
+ Podpis SP:      dc9edb6881789744595ee1e66d1a9c38

@@ -1,0 +1,98 @@
+ Plik:                                   0042.txt
+ Zawartoœæ pliku:                    DANE WYDRUKU
+ Wersja pliku:                           1.00.010
+ Typ urz¹dzenia:                 KASA E  1.00.001
+ Rozmiar linii:                                48
+ Urz¹dzenie:                          NANO E 1.00
+ Nr unikatowy:                        BAV11006958
+ Wersja Kopii E:                         1.00.002
+ Noœnik Kopii E:                           SDCARD
+ Plik utworzono:                 05-09-2011 07:55
+ Nr raportu:                                   42
+ Data raportu:                   05-09-2011 00:00
+ Data wydruku od:                05-09-2011 07:55
+ Data wydruku do:                05-09-2011 07:55
+ Nr wydruku od:                               273
+ Nr wydruku do:                               273
+ Data paragonu od:               00-00-0000 00:00
+ Data paragonu do:               00-00-0000 00:00
+ Nr paragonu od:                                0
+ Nr paragonu do:                                0
+ Data faktury od:                00-00-0000 00:00
+ Data faktury do:                00-00-0000 00:00
+ Nr faktury od:                                 0
+ Nr faktury do:                                 0
+ Nr zerowania od:                               0
+ Nr zerowania do:                               0
+ Rozmiar Nag³ówka Pliku:                     1734
+ Rozmiar etykiet danych:                      153
+ Offset Danych Wydruku:                      1887
+ Rozmiar Danych Wydruku:                     2652
+ Offset Spisu Treœci:                        4845
+ Rozmiar Spisu Treœci:                         51
+ Podpis N:       9539a6b8353edc3a1b06b49c7cbacdd8
+ Podpis NP:      26414e2881e35521594b356e732b3b9f
+                                                 
+ DANE WYDRUKÓW:                                  
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©§
+ 05-09-2011                              °W000273
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.  R A P O R T   F I S K A L N Y   D O B O W Y   
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ PTU  A                                    23.00%
+ PTU  B                                     8.00%
+ PTU  C                                     0.00%
+ PTU  D                                     5.00%
+ PTU  E                                     0.00%
+ PTU  F                                     0.00%
+ G                                      SP.ZW.PTU
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 05-09-2011                     Nr raportu:  0042
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.A                                     0.00
+ SP.OP.B                                     0.00
+ SP.OP.C                                     0.00
+ SP.OP.D                                     0.00
+ SP.OP.E                                     0.00
+ SP.OP.F                                     0.00
+ SP.ZW.G                                     0.00
+ Kwota PTU A                                 0.00
+ Kwota PTU B                                 0.00
+ Kwota PTU D                                 0.00
+ SUMA PTU                                   ´0.00
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Nale¿noœæ:                              PLN 0.00
+ Iloœæ paragonów:                               0
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   NARASTAJ¥CO                   
+ Kwota PTU A                                89.76
+ Kwota PTU B                              1210.37
+ Kwota PTU D                                 0.00
+ SUMA PTU                                ´1300.13
+ Nale¿noœæ:                          PLN 16820.00
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Iloœæ pozycji:                                27
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ #1 8.Administrator                        ¡07:55
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       39A2F230CBE7A92E6F3D541387E93F43 0A¬      
+                    »BAV 11006958                
+ ‡CRC:26DCF3FD                                   
+                                                 
+                                                 
+                                                 
+ P:1d173abb35dae8be7db40afdf037cd4a1a69c61c      
+ C:c3a87047a29bfce0637684af876c04f6              
+ DP:1f38e34a415e54d8ccaee7cd6d16cc2ce56b4eb9     
+                                                 
+ SPIS TREŒCI:                                    
+                                                 
+ 05-09-2011 000000273 02 000000042 0000001887    
+ Podpis S:       979958e55fc0827f73f5484506707e1a
+ Podpis SP:      08bba0ab46d1793528500af69f977080

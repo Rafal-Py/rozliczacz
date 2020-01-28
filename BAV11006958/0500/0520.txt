@@ -1,0 +1,127 @@
+ Plik:                                   0520.txt
+ Zawartoœæ pliku:                    DANE WYDRUKU
+ Wersja pliku:                           1.00.010
+ Typ urz¹dzenia:                 KASA E  1.00.001
+ Rozmiar linii:                                48
+ Urz¹dzenie:                          NANO E 1.00
+ Nr unikatowy:                        BAV11006958
+ Wersja Kopii E:                         1.00.002
+ Noœnik Kopii E:                           SDCARD
+ Plik utworzono:                 25-03-2015 09:21
+ Nr raportu:                                  520
+ Data raportu:                   25-03-2015 00:00
+ Data wydruku od:                24-03-2015 16:54
+ Data wydruku do:                25-03-2015 09:21
+ Nr wydruku od:                              4451
+ Nr wydruku do:                              4452
+ Data paragonu od:               24-03-2015 16:54
+ Data paragonu do:               24-03-2015 16:54
+ Nr paragonu od:                             3921
+ Nr paragonu do:                             3921
+ Data faktury od:                00-00-0000 00:00
+ Data faktury do:                00-00-0000 00:00
+ Nr faktury od:                                 0
+ Nr faktury do:                                 0
+ Nr zerowania od:                               0
+ Nr zerowania do:                               0
+ Rozmiar Nag³ówka Pliku:                     1734
+ Rozmiar etykiet danych:                      153
+ Offset Danych Wydruku:                      1887
+ Rozmiar Danych Wydruku:                     4080
+ Offset Spisu Treœci:                        6273
+ Rozmiar Spisu Treœci:                        102
+ Podpis N:       7d58f910e8c741a07bf03b219f1c2af2
+ Podpis NP:      ae0781054d327801a2629be6dd056d4a
+                                                 
+ DANE WYDRUKÓW:                                  
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©¤
+ 24-03-2015¸                             °W004451
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.      « P A R A G O N   F I S K A L N Y «       
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Bilet wstêpu 6*30.00                    ¨180.00B
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ RAZEM:                                   180.00 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.B: 180.00 PTU 8.00%                 ‘13.33
+ SUMA PTU                                  ´13.33
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.S U M A :                   P L N · 1 8 0 . 0 0 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ F3921¦ #1 8.Administrator                 ¡16:54
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       43CF2470DDF9741D05AE98D774C00149 72¬      
+                    »BAV 11006958                
+ Gotówka:                                  180.00
+ ‡CRC:0A829020                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©§
+ 25-03-2015                              °W004452
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.  R A P O R T   F I S K A L N Y   D O B O W Y   
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ PTU  A                                    23.00%
+ PTU  B                                     8.00%
+ PTU  C                                     0.00%
+ PTU  D                                     5.00%
+ PTU  E                                     0.00%
+ PTU  F                                     0.00%
+ G                                      SP.ZW.PTU
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 25-03-2015                     Nr raportu:  0520
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.A                                     0.00
+ SP.OP.B                                   166.67
+ SP.OP.C                                     0.00
+ SP.OP.D                                     0.00
+ SP.OP.E                                     0.00
+ SP.OP.F                                     0.00
+ SP.ZW.G                                     0.00
+ Kwota PTU A                                 0.00
+ Kwota PTU B                                13.33
+ Kwota PTU D                                 0.00
+ SUMA PTU                                  ´13.33
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Nale¿noœæ:                            PLN 180.00
+ Iloœæ paragonów:                               1
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   NARASTAJ¥CO                   
+ Kwota PTU A                               396.44
+ Kwota PTU B                             14786.06
+ Kwota PTU D                                 0.00
+ SUMA PTU                               ´15182.50
+ Nale¿noœæ:                         PLN 201734.80
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Iloœæ pozycji:                                27
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ #1 8.Administrator                        ¡09:21
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       2327D67D77DC364ACEB37B350371C4CB C9¬      
+                    »BAV 11006958                
+ ‡CRC:37BC2093                                   
+                                                 
+                                                 
+                                                 
+ P:627d80bbbfa0bcfb86fe47e3df04665c5badcb88      
+ C:03bdc2c34032038a7539dbe64337fb72              
+ DP:ae74afadfb5ff5fe5c842e3f6fe1a36ba7043065     
+                                                 
+ SPIS TREŒCI:                                    
+                                                 
+ 24-03-2015 000004451 01 000003921 0000001887    
+ 25-03-2015 000004452 02 000000520 0000003315    
+ Podpis S:       846c5e7403a933955eb9d61190077696
+ Podpis SP:      989e0b4b1836e95fc72abf2e099e1d0c

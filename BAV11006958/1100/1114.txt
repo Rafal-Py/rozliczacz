@@ -1,0 +1,248 @@
+ Plik:                                   1114.txt
+ Zawartoœæ pliku:                    DANE WYDRUKU
+ Wersja pliku:                           1.00.010
+ Typ urz¹dzenia:                 KASA E  1.00.001
+ Rozmiar linii:                                48
+ Urz¹dzenie:                          NANO E 1.00
+ Nr unikatowy:                        BAV11006958
+ Wersja Kopii E:                         1.00.002
+ Noœnik Kopii E:                           SDCARD
+ Plik utworzono:                 09-04-2019 07:46
+ Nr raportu:                                 1114
+ Data raportu:                   09-04-2019 00:00
+ Data wydruku od:                01-04-2019 09:44
+ Data wydruku do:                09-04-2019 07:46
+ Nr wydruku od:                              8366
+ Nr wydruku do:                              8370
+ Data paragonu od:               08-04-2019 11:39
+ Data paragonu do:               08-04-2019 11:39
+ Nr paragonu od:                             7214
+ Nr paragonu do:                             7214
+ Data faktury od:                00-00-0000 00:00
+ Data faktury do:                00-00-0000 00:00
+ Nr faktury od:                                 0
+ Nr faktury do:                                 0
+ Nr zerowania od:                               0
+ Nr zerowania do:                               0
+ Rozmiar Nag³ówka Pliku:                     1734
+ Rozmiar etykiet danych:                      153
+ Offset Danych Wydruku:                      1887
+ Rozmiar Danych Wydruku:                    10098
+ Offset Spisu Treœci:                       12291
+ Rozmiar Spisu Treœci:                        255
+ Podpis N:       36848349ef818f6e4a12b1b4f7e5d5c2
+ Podpis NP:      d7e3f19db2c270e044149e42c89a770b
+                                                 
+ DANE WYDRUKÓW:                                  
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            © 
+ 01-04-2019                              °W008366
+                ## NIEFISKALNY ##                
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.    P R O G R A M O W A N I E   Z E G A R A     
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Zmiana czasu:                                   
+ w dniu: 01-04-2019                              
+ o godzinie: 09:44                               
+ Data: 01-04-2019                                
+ Czas: 09:30                                     
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                ## NIEFISKALNY ##                
+ #1 8.Administrator                        ¡09:30
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    »11006958                    
+ ‡CRC:27815213                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            © 
+ 01-04-2019                              °W008367
+                ## NIEFISKALNY ##                
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.          W Y N I K I   T E S T Ó W             
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Test ROM                                      OK
+ Test Klawiatury                             B³¹d
+ Test Wyœw. Obs.                               OK
+ Test Wyœw. Kli.                               OK
+ Test Pam. Fisk.                               OK
+ Test Zegara                                   OK
+ Test Drukarki                                 OK
+ Test G³oœnika                                 OK
+ Test podœw.wyœ.k                              OK
+ Test podœw.wyœ.o                              OK
+ Test podœw. klaw.                             OK
+ Test Szuflady                                 OK
+ Test Pam. Fisk. 2                           B³¹d
+ Test Zwory COM1                             B³¹d
+ Test SFLASH                                   OK
+ Test USB                                    B³¹d
+ Test modu³u BT                              B³¹d
+ Test wew.SD                                   OK
+ Test zew.SD                                 B³¹d
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                ## NIEFISKALNY ##                
+ #1 8.Administrator                        ¡09:32
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    »11006958                    
+ ‡CRC:0044D90C                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            © 
+ 01-04-2019                              °W008368
+                ## NIEFISKALNY ##                
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.  O S T A T N I   R A P O R T   D O B O W Y     
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ PTU  A                                    23.00%
+ PTU  B                                     8.00%
+ PTU  C                                     0.00%
+ PTU  D                                     5.00%
+ PTU  E                                     0.00%
+ PTU  F                                     0.00%
+ G                                      SP.ZW.PTU
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 29-03-2019                     Nr raportu:  1113
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.A                                     0.00
+ SP.OP.B                                   472.22
+ SP.OP.C                                     0.00
+ SP.OP.D                                     0.00
+ SP.OP.E                                     0.00
+ SP.OP.F                                     0.00
+ SP.ZW.G                                     0.00
+ Kwota PTU A                                 0.00
+ Kwota PTU B                                37.78
+ Kwota PTU C                                 0.00
+ Kwota PTU D                                 0.00
+ Kwota PTU E                                 0.00
+ Kwota PTU F                                 0.00
+ Kwota PTU G                                 0.00
+ SUMA PTU                                  ´37.78
+ Nale¿noœæ:                            PLN 510.00
+ Iloœæ paragonów:                              13
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   NARASTAJ¥CO                   
+ Kwota PTU A                               654.50
+ Kwota PTU B                             28136.92
+ Kwota PTU D                                 0.00
+ SUMA PTU                               ´28791.42
+ Nale¿noœæ:                         PLN 383354.80
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                ## NIEFISKALNY ##                
+ #1 8.Administrator                        ¡09:36
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    »11006958                    
+ ‡CRC:311B1174                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©¤
+ 08-04-2019¸                             °W008369
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.      « P A R A G O N   F I S K A L N Y «       
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Bilet wstêpu 2*40.00                     ¨80.00B
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ RAZEM:                                    80.00 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.B: 80.00 PTU 8.00%                   ‘5.93
+ SUMA PTU                                   ´5.93
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.S U M A :                     P L N · 8 0 . 0 0 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ F7214¦ #1 8.Administrator                 ¡11:39
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       6A3021FAF9F6DECFD88E459735A03F43 0D¬      
+                    »BAV 11006958                
+ Gotówka:                                   80.00
+ ‡CRC:20AB800F                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©§
+ 09-04-2019                              °W008370
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.  R A P O R T   F I S K A L N Y   D O B O W Y   
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ PTU  A                                    23.00%
+ PTU  B                                     8.00%
+ PTU  C                                     0.00%
+ PTU  D                                     5.00%
+ PTU  E                                     0.00%
+ PTU  F                                     0.00%
+ G                                      SP.ZW.PTU
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 09-04-2019                     Nr raportu:  1114
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.A                                     0.00
+ SP.OP.B                                    74.07
+ SP.OP.C                                     0.00
+ SP.OP.D                                     0.00
+ SP.OP.E                                     0.00
+ SP.OP.F                                     0.00
+ SP.ZW.G                                     0.00
+ Kwota PTU A                                 0.00
+ Kwota PTU B                                 5.93
+ Kwota PTU D                                 0.00
+ SUMA PTU                                   ´5.93
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Nale¿noœæ:                             PLN 80.00
+ Iloœæ paragonów:                               1
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   NARASTAJ¥CO                   
+ Kwota PTU A                               654.50
+ Kwota PTU B                             28142.85
+ Kwota PTU D                                 0.00
+ SUMA PTU                               ´28797.35
+ Nale¿noœæ:                         PLN 383434.80
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Iloœæ pozycji:                                27
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ #1 8.Administrator                        ¡07:46
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       CCECFD623A52D33462E1F61250BBB3B0 40¬      
+                    »BAV 11006958                
+ ‡CRC:3AD182EF                                   
+                                                 
+                                                 
+                                                 
+ P:0fe8191f33381ca78d52cd3d1afb00409fd3ec98      
+ C:884ee4d590888a74d46808ddcd908f79              
+ DP:60873c20caceb84b0eb8575adca6810364223ba1     
+                                                 
+ SPIS TREŒCI:                                    
+                                                 
+ 01-04-2019 000008366 04 000000000 0000001887    
+ 01-04-2019 000008367 00 000000000 0000003162    
+ 01-04-2019 000008368 03 000000000 0000005151    
+ 08-04-2019 000008369 01 000007214 0000007905    
+ 09-04-2019 000008370 02 000001114 0000009333    
+ Podpis S:       66802800b207ec64e3d4581578373ba2
+ Podpis SP:      8569815f46b22801f3201984439466ed

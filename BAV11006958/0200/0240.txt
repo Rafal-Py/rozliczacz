@@ -1,0 +1,207 @@
+ Plik:                                   0240.txt
+ Zawartoœæ pliku:                    DANE WYDRUKU
+ Wersja pliku:                           1.00.010
+ Typ urz¹dzenia:                 KASA E  1.00.001
+ Rozmiar linii:                                48
+ Urz¹dzenie:                          NANO E 1.00
+ Nr unikatowy:                        BAV11006958
+ Wersja Kopii E:                         1.00.002
+ Noœnik Kopii E:                           SDCARD
+ Plik utworzono:                 15-04-2013 13:20
+ Nr raportu:                                  240
+ Data raportu:                   15-04-2013 00:00
+ Data wydruku od:                15-04-2013 08:43
+ Data wydruku do:                15-04-2013 13:20
+ Nr wydruku od:                              1895
+ Nr wydruku do:                              1898
+ Data paragonu od:               15-04-2013 08:43
+ Data paragonu do:               15-04-2013 08:43
+ Nr paragonu od:                             1652
+ Nr paragonu do:                             1652
+ Data faktury od:                00-00-0000 00:00
+ Data faktury do:                00-00-0000 00:00
+ Nr faktury od:                                 0
+ Nr faktury do:                                 0
+ Nr zerowania od:                               0
+ Nr zerowania do:                               0
+ Rozmiar Nag³ówka Pliku:                     1734
+ Rozmiar etykiet danych:                      153
+ Offset Danych Wydruku:                      1887
+ Rozmiar Danych Wydruku:                     8058
+ Offset Spisu Treœci:                       10251
+ Rozmiar Spisu Treœci:                        204
+ Podpis N:       343d23e1cce8145cc5194f930529ff16
+ Podpis NP:      966d3c79d2e98faed6b558265f27351b
+                                                 
+ DANE WYDRUKÓW:                                  
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©¤
+ 15-04-2013¸                             °W001895
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.      « P A R A G O N   F I S K A L N Y «       
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Bilet wstêpu 3*30.00                     ¨90.00B
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ RAZEM:                                    90.00 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.B: 90.00 PTU 8.00%                   ‘6.67
+ SUMA PTU                                   ´6.67
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.S U M A :                     P L N · 9 0 . 0 0 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ F1652¦ #1 8.Administrator                 ¡08:43
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       9D376EA324FDCCDAC2F9E304595E9429 31¬      
+                    »BAV 11006958                
+ Gotówka:                                   90.00
+ ‡CRC:14DAB39A                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            © 
+ 15-04-2013                              °W001896
+                ## NIEFISKALNY ##                
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.          W Y N I K I   T E S T Ó W             
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Test ROM                                      OK
+ Test Klawiatury                             B³¹d
+ Test Wyœw. Obs.                               OK
+ Test Wyœw. Kli.                               OK
+ Test Pam. Fisk.                               OK
+ Test Zegara                                   OK
+ Test Drukarki                                 OK
+ Test G³oœnika                                 OK
+ Test podœw.wyœ.k                              OK
+ Test podœw.wyœ.o                              OK
+ Test podœw. klaw.                             OK
+ Test Szuflady                                 OK
+ Test Pam. Fisk. 2                             OK
+ Test Zwory COM1                             B³¹d
+ Test SFLASH                                   OK
+ Test USB                                    B³¹d
+ Test modu³u BT                              B³¹d
+ Test wew.SD                                   OK
+ Test zew.SD                                   OK
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                ## NIEFISKALNY ##                
+ #1 8.Administrator                        ¡13:10
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    »11006958                    
+ ‡CRC:36607A1A                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            © 
+ 15-04-2013                              °W001897
+                ## NIEFISKALNY ##                
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.          W Y N I K I   T E S T Ó W             
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Test ROM                                      OK
+ Test Klawiatury                               OK
+ Test Wyœw. Obs.                               OK
+ Test Wyœw. Kli.                               OK
+ Test Pam. Fisk.                               OK
+ Test Zegara                                   OK
+ Test Drukarki                                 OK
+ Test G³oœnika                                 OK
+ Test podœw.wyœ.k                              OK
+ Test podœw.wyœ.o                              OK
+ Test podœw. klaw.                             OK
+ Test Szuflady                                 OK
+ Test Pam. Fisk. 2                             OK
+ Test Zwory COM1                             B³¹d
+ Test SFLASH                                   OK
+ Test USB                                    B³¹d
+ Test modu³u BT                              B³¹d
+ Test wew.SD                                   OK
+ Test zew.SD                                   OK
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                ## NIEFISKALNY ##                
+ #1 8.Administrator                        ¡13:13
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    »11006958                    
+ ‡CRC:45DE1822                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©§
+ 15-04-2013                              °W001898
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.  R A P O R T   F I S K A L N Y   D O B O W Y   
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ PTU  A                                    23.00%
+ PTU  B                                     8.00%
+ PTU  C                                     0.00%
+ PTU  D                                     5.00%
+ PTU  E                                     0.00%
+ PTU  F                                     0.00%
+ G                                      SP.ZW.PTU
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 15-04-2013                     Nr raportu:  0240
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.A                                     0.00
+ SP.OP.B                                    83.33
+ SP.OP.C                                     0.00
+ SP.OP.D                                     0.00
+ SP.OP.E                                     0.00
+ SP.OP.F                                     0.00
+ SP.ZW.G                                     0.00
+ Kwota PTU A                                 0.00
+ Kwota PTU B                                 6.67
+ Kwota PTU D                                 0.00
+ SUMA PTU                                   ´6.67
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Nale¿noœæ:                             PLN 90.00
+ Iloœæ paragonów:                               1
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   NARASTAJ¥CO                   
+ Kwota PTU A                               149.60
+ Kwota PTU B                              8068.05
+ Kwota PTU D                                 0.00
+ SUMA PTU                                ´8217.65
+ Nale¿noœæ:                         PLN 109719.80
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Iloœæ pozycji:                                27
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ #1 8.Administrator                        ¡13:20
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       0D1316E8674E4742FA0391D54CF4F12A ED¬      
+                    »BAV 11006958                
+ ‡CRC:5F278004                                   
+                                                 
+                                                 
+                                                 
+ P:6b10cb68860250e078d2882bc6248738ca4637ce      
+ C:ad1aefa338d8c3bba7e884ec00807875              
+ DP:88bf6695c3f1cf0da4839f2fcdb3d93225ee8041     
+                                                 
+ SPIS TREŒCI:                                    
+                                                 
+ 15-04-2013 000001895 01 000001652 0000001887    
+ 15-04-2013 000001896 00 000000000 0000003315    
+ 15-04-2013 000001897 00 000000000 0000005304    
+ 15-04-2013 000001898 02 000000240 0000007293    
+ Podpis S:       a48c7a81c4fa08da41a6a508ebdfd112
+ Podpis SP:      2e7c323dd1b135316225c7df43a1f367

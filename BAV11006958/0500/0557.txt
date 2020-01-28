@@ -1,0 +1,517 @@
+ Plik:                                   0557.txt
+ Zawartoœæ pliku:                    DANE WYDRUKU
+ Wersja pliku:                           1.00.010
+ Typ urz¹dzenia:                 KASA E  1.00.001
+ Rozmiar linii:                                48
+ Urz¹dzenie:                          NANO E 1.00
+ Nr unikatowy:                        BAV11006958
+ Wersja Kopii E:                         1.00.002
+ Noœnik Kopii E:                           SDCARD
+ Plik utworzono:                 14-06-2015 20:37
+ Nr raportu:                                  557
+ Data raportu:                   14-06-2015 00:00
+ Data wydruku od:                29-05-2015 20:07
+ Data wydruku do:                14-06-2015 20:37
+ Nr wydruku od:                              4740
+ Nr wydruku do:                              4743
+ Data paragonu od:               14-06-2015 20:36
+ Data paragonu do:               14-06-2015 20:36
+ Nr paragonu od:                             4170
+ Nr paragonu do:                             4170
+ Data faktury od:                00-00-0000 00:00
+ Data faktury do:                00-00-0000 00:00
+ Nr faktury od:                                 0
+ Nr faktury do:                                 0
+ Nr zerowania od:                               0
+ Nr zerowania do:                               0
+ Rozmiar Nag³ówka Pliku:                     1734
+ Rozmiar etykiet danych:                      153
+ Offset Danych Wydruku:                      1887
+ Rozmiar Danych Wydruku:                    23868
+ Offset Spisu Treœci:                       26061
+ Rozmiar Spisu Treœci:                        204
+ Podpis N:       bd0ba19bc8af990e8b62922abcfaf583
+ Podpis NP:      a52b93cbc8b3394e7b95f0d3cb808374
+                                                 
+ DANE WYDRUKÓW:                                  
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            © 
+ 29-05-2015                              °W004740
+                ## NIEFISKALNY ##                
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.            R A P O R T   O P C J I             
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 45 Opcje                                        
+ 451 Komunikacja                                 
+ 4511 Po³¹czenia                                 
+  COM1:                                  0 (Brak)
+  COM2:                                  0 (Brak)
+  COM3:                                      1 PC
+ 4512 PC                                         
+  Prêdkoœæ:                              9600 bps
+ 4513 PC2                                        
+  Prêdkoœæ:                              9600 bps
+ 452 Sprzêt                                      
+ 4521 Energia                                    
+ 45211 Oszczêdnoœæ                               
+  Autowygaszanie                              10s
+  Uœpienie                                   900s
+  Wybudzanie                   Wszystkie klawisze
+  Autowy³¹czanie                            1200s
+  Domyœlne wy³¹czenie                  Wy³¹czenie
+ 4522 Komponenty                                 
+  1 Szuflada:                                 TAK
+  4 Bluetooth:                                NIE
+ 45232 Kontrast                                  
+  Kontrast wyœ. obs³ugi:                       60
+  Kontrast wyœ. klienta:                       60
+ 453 System                                      
+  1 Prawa dostêpu:                            NIE
+  *2 Has³o Modemu:                            NIE
+  3 Has³o PC:                                 NIE
+  4 Tow. tylko PC:                            NIE
+  5 Obr.Tow.do PC:                            NIE
+  *6 Stany mag.:                              NIE
+  7 PC przed r.dob:                           NIE
+  8 Dwa kody towaru:                          NIE
+  9 Rap.Kas.na zmiany:                        NIE
+  *10 Progr. tylko FTP:                       NIE
+  11 Kontr.Rap.Dobow.:                        NIE
+  12 Baza Paragonów:                          TAK
+  13 Wymagana karta kopii e.:                 NIE
+  14 Has³o na kartê kopii e.:                 NIE
+  15 Kod na w³¹czenie:                        NIE
+ 454 Obs³uga                                     
+  1 Ceny w groszach:                          NIE
+  2 DŸwiêki klawiszy:                         TAK
+  3 DŸwiêk zatwierdzania:                     TAK
+  4 DŸwiêk b³êdu:                             TAK
+  *5 Kluczyk=Menu:                            NIE
+  6 Szybka sprzed:                            NIE
+  7 Sprzed.pojed.:                            NIE
+  *8 Ró¿ny dŸwiêk klaw:                       TAK
+  9 Sprzeda¿ potwierdzana:                    NIE
+ 455 Sprzeda¿                                    
+  1 Wymagaj RAZEM:                            TAK
+  2 Drukuj RAZEM:                             TAK
+  3 Wymóg zap³aty:                            NIE
+  4 Rabat z rêki:                             TAK
+  5 Rabat z listy:                            TAK
+  6 Szybko anuluj:                            NIE
+  7 Szybki zwrot:                             NIE
+  8 Kod=powtórz:                              NIE
+  9 Bon bez reszty:                           TAK
+  10 D19 bez rabatu:                          NIE
+  11 D20 bez rabatu:                          NIE
+  12 wa2-Reszta wa1:                          NIE
+  13 wa2-Edytuj resztê:                       NIE
+  14 wa2-Bez wydruku:                         NIE
+  *15 Kontrol.il.mag.:                        NIE
+  16 Wymóg OK EFT:                            TAK
+  *17 Wymóg karty r.:                         NIE
+  18 Cofany rabat:                            NIE
+ 456 Wydruk                                      
+ 4561 Ogólne                                     
+  1 Kreski podsumy:                           TAK
+  2 Inne kreski:                              TAK
+  3 Kreski graf.:                             TAK
+ 4562 Paragonu                                   
+  1 Drukuj jednostki miar:                    TAK
+  2 Drukuj Kod EAN:                           NIE
+  3 Drukuj nazwy rabatów:                     TAK
+ 4563 Zestawu Raportów                           
+  1 Rap.obr.towarów:                          NIE
+  2 Rap.obr.opakowañ:                         NIE
+  3 Rap.obr.dzia³ów:                          NIE
+  4 Rap.obr.kasjerów:                         NIE
+  5 Rap.stanu kasy:                           NIE
+  6 Rap. godzinowy:                           NIE
+  7 Rap. dobowy:                              NIE
+ 457 Dane                                        
+ 4571 Kod wagowy                                 
+  Typ kodu wag.:                          0  Brak
+  1 Kod t.z prefixem:                         NIE
+ 4572 Kontrola                                   
+  1 Kod EAN:                                  NIE
+  2 Obrót tow.<>0:                            TAK
+  3 Max Obr.tow.:                             TAK
+  4 Max Buf.Online:                           NIE
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                ## NIEFISKALNY ##                
+ #1 8.Administrator                        ¡20:20
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    »11006958                    
+ ‡CRC:61F3FFA2                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            © 
+ 29-05-2015                              °W004741
+                ## NIEFISKALNY ##                
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.          S T R U K T U R A   M E N U           
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ MENU                                            
+  1 Funkcje                                      
+   11 U¿ytkownik                                 
+    111 Logowanie                                
+    112 Zmiana has³a                             
+    119 Blokada klawiatury                       
+   12 Kasa                                       
+    121 Wp³ata                                   
+    122 Wyp³ata                                  
+    123 Otwórz szufladê                          
+    124 Kalkulator                               
+    125 Us³uga czasowa                           
+     1251 Start                                  
+     1252 Stop                                   
+     1253 Poka¿ kwit                             
+     1254 Anuluj kwit                            
+    126 Us³uga biletowa                          
+     1261 Start kursu                            
+     1262 Przystanek                             
+     1269 Koniec kursu                           
+     1253 Anuluj kurs                            
+   13 Komunikacja                                
+    133 Bluetooth                                
+     1331 Inicjuj                                
+   14 Obs³uga                                    
+    141 Zestaw Rap.                              
+    142 Typ sprzed.                              
+     1421 Sp.Normalna                            
+     1422 Sp.Szybka                              
+     1423 Sp.Pojedyñcza                          
+     1424 Sp.Szyb.Pojedyñcza                     
+   16 Kopia E                                    
+    161 Wyjêcie karty                            
+    162 Stan karty                               
+   19 Wyœwietl                                   
+    191 Czas                                     
+    192 Akumulator                               
+    193 U¿ytkownika                              
+    194 Ostatni paragon                          
+    195 Gotówkê                                  
+  2 Raporty                                      
+   21 Dobowy                                     
+   22 Stanu Kasy                                 
+   23 Rap.Obrotów                                
+    231 Kasjerów                                 
+    232 Towarów                                  
+    233 Opakowañ                                 
+    234 Dzia³ów tow.                             
+    235 Godzinowych                              
+    236 Us³ug                                    
+     2361 Kwity us³ugi cz.                       
+     2362 Kursy bus                              
+   24 R.Dobowe Inne                              
+    241 Dobowy niez.                             
+    242 Ostatni dob.                             
+   25 Rap.Okresowe                               
+    251 Miesiêczny                               
+    252 Okresowy                                 
+    253 Rozliczen.                               
+   26 Rap.Danych                                 
+    261 Dane Towarów                             
+     2611 Towary                                 
+     2612 Opakowania                             
+     2613 Tandemy                                
+    262 Dzia³ów                                  
+    263 Jed.Miar                                 
+    264 Rabatów                                  
+    265 U¿ytkownicy                              
+     2651 Lista u¿ytkowników                     
+     2652 Role u¿ytkowników                      
+    266 Ustawieñ                                 
+    267 Opisów sta³ych                           
+    268 Us³ugi                                   
+     2681 Czasowa                                
+     2681 Busowe                                 
+   27 Wydruki Kopii E                            
+    271 Z karty                                  
+    272 Z pam.podr.                              
+    273 Historia kart                            
+    274 Stan karty                               
+   29 Zestaw Rap.                                
+  3 Baza Danych                                  
+   31 Towary                                     
+    311 Edycja                                   
+    312 Usuñ                                     
+    313 Funkcje towarów                          
+     3131 Poka¿ cenê                             
+     3132 Zmiana ceny                            
+     3137 Przecena towarów                       
+     3139 Zaawansowane                           
+      31391 Usuw. bazy towarów                   
+    315 Klawisze tow.                            
+     3151 Edycja                                 
+     3152 Usuñ wszystkie                         
+     3159 Drukuj                                 
+    318 Opisy towaru                             
+     3181 Edycja pozycji                         
+     3182 Usuñ pozycjê                           
+     3183 Usuñ wszystko                          
+     3189 Drukuj                                 
+    319 Drukuj dane                              
+     3191 Towary                                 
+     3192 Opakowania                             
+     3193 Tandemy                                
+   32 Dzia³y tow.                                
+    321 Edycja                                   
+    329 Drukuj                                   
+   33 Jednostki m.                               
+    331 Edycja                                   
+    339 Drukuj                                   
+   34 Rabaty/Narzuty                             
+    341 Edycja                                   
+    342 Limity                                   
+    343 Domyœlne                                 
+    349 Drukuj                                   
+   35 U¿ytkownicy                                
+    351 Edycja                                   
+    352 Usuñ                                     
+    353 Zmiana Has³a                             
+    359 Drukuj                                   
+   36 Role u¿ytkowników                          
+    361 Edycja                                   
+    369 Drukuj                                   
+   37 P³atnoœci                                  
+    371 Edycja                                   
+    379 Drukuj                                   
+   38 Us³ugi                                     
+    381 Czasowa                                  
+     3811 Definicja                              
+     3812 Cenniki                                
+     3813 Usuñ                                   
+     3818 Funkcje                                
+      38181 Usuñ kwity                           
+     3819 Drukuj                                 
+    382 Busowe                                   
+     3821 Definicje                              
+     3822 Cenniki                                
+     3823 Usuñ                                   
+     3828 Funkcje                                
+      38281 Usuñ kursy                           
+     3829 Drukuj                                 
+   39 Opisy wyp³at                               
+    391 Edycja pozycji                           
+    392 Usuñ pozycjê                             
+    393 Usuñ wszystko                            
+    399 Drukuj                                   
+  4 Ustawienia                                   
+   41 Zegar                                      
+   42 Dane identyfikacyjne                       
+    421 Nag³ówek wydruku                         
+    422 Numer kasy                               
+    423 NIP                                      
+   43 Stawki podatku                             
+   44 Tekst reklam.                              
+   45 Opcje                                      
+    451 Komunikacja                              
+     4511 Po³¹czenia                             
+     4512 PC                                     
+     4513 PC2                                    
+     4518 Bluetooth                              
+    452 Sprzêt                                   
+     4521 Energia                                
+      45211 Oszczêdnoœæ                          
+     4522 Komponenty                             
+     4523 Wyœwietlanie                           
+      45232 Kontrast                             
+    453 System                                   
+    454 Obs³uga                                  
+    455 Sprzeda¿                                 
+    456 Wydruk                                   
+     4561 Ogólne                                 
+     4562 Paragonu                               
+     4563 Zestawu Raportów                       
+     4565 II Waluta                              
+    457 Dane                                     
+     4571 Kod wagowy                             
+     4572 Kontrola                               
+    458 Funkcje opcji                            
+     4581 Ustaw domyœlne                         
+    459 Drukuj Opcje                             
+   46 Limity                                     
+    461 Rabatów                                  
+    462 Kwot                                     
+    463 Bufora online                            
+   47 Parametry                                  
+    471 Rabaty domyœlne                          
+    472 Kursy walut                              
+    473 Auto wylogowanie                         
+   48 Interfejs u¿ytkownika                      
+    482 Klawisze funkcji                         
+     4821 Edycja                                 
+     4822 Ustaw domyœlne                         
+     4829 Drukuj                                 
+    489 Drukuj                                   
+   49 Drukuj ustawienia                          
+  5 Serwis                                       
+   51 Testy                                      
+    511 Serwisowe                                
+    512 Wszystko                                 
+    513 Pojedynczo                               
+    514 Cyklicznie                               
+   52 Ustawienia serwisowe                       
+    521 NIP                                      
+    522 Fiskalizacja                             
+    523 Data Przegl.                             
+    524 Data Blokady                             
+    525 Wy³¹cz blok.                             
+    526 Koniec tr.f.                             
+    527 Zerowanie                                
+     5271 Danych                                 
+     5272 Kopia E                                
+      1 Zeruj tryb NF                            
+      2 Odœwie¿ bazy Kopii E                     
+    528 Zaawansowane                             
+     5281 Waluta                                 
+    529 Kalibr.zegara                            
+   53 Funkcje serwisowe                          
+    531 SprawdŸ bazy                             
+    532 Kopia E                                  
+     5321 Weryfikuj                              
+     5322 SprawdŸ plik                           
+     5323 Raport zdarzeñ                         
+     5324 Odzyskaj kartê                         
+     5325 ZnajdŸ has³o karty                     
+     5326 Format karty                           
+    533 Zrzut pam.                               
+     5331 RAM FLASH FM                           
+     5332 uSD                                    
+   59 Informacje                                 
+    591 Wersja                                   
+    592 Pamiêæ fisk.                             
+    593 Pomiary nap.                             
+  6 Funkcje zaawansowane                         
+   61 Kopia E                                    
+    611 Otwarcie nowej karty                     
+    612 Kopie dodatkowe                          
+    613 Zamkniêcie karty                         
+    614 Nadaj has³o karty                        
+  9 Pomoc                                        
+   91 Drukuj Menu                                
+   92 Drukuj Ustaw.                              
+   93 Drukuj Opcje                               
+                                                 
+ MENU PARAGONU                                   
+  1 Edytuj paragon                               
+  2 Anuluj pozycjê                               
+  3 Anuluj zap³atê                               
+  4 Anuluj paragon                               
+  5 Otwórz szufladê                              
+  6 Edycja numeru                                
+  7 Poka¿ w walucie II                           
+  8 Poka¿ czas                                   
+  9 Poka¿ u¿ytkownika                            
+  11 Opis towaru                                 
+                ## NIEFISKALNY ##                
+ #1 8.Administrator                        ¡20:21
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    »11006958                    
+ ‡CRC:51578953                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©¤
+ 14-06-2015¸                             °W004742
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.      « P A R A G O N   F I S K A L N Y «       
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ P³yty CD/DVD 4*20.00                     ¨80.00A
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ RAZEM:                                    80.00 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.A: 80.00 PTU 23.00%                 ‘14.96
+ SUMA PTU                                  ´14.96
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.S U M A :                     P L N · 8 0 . 0 0 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ F4170¦ #1 8.Administrator                 ¡20:36
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       EE531C060609A9CC411E790410AF42ED 00¬      
+                    »BAV 11006958                
+ Gotówka:                                   80.00
+ ‡CRC:43726CB8                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©§
+ 14-06-2015                              °W004743
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.  R A P O R T   F I S K A L N Y   D O B O W Y   
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ PTU  A                                    23.00%
+ PTU  B                                     8.00%
+ PTU  C                                     0.00%
+ PTU  D                                     5.00%
+ PTU  E                                     0.00%
+ PTU  F                                     0.00%
+ G                                      SP.ZW.PTU
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 14-06-2015                     Nr raportu:  0557
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.A                                    65.04
+ SP.OP.B                                     0.00
+ SP.OP.C                                     0.00
+ SP.OP.D                                     0.00
+ SP.OP.E                                     0.00
+ SP.OP.F                                     0.00
+ SP.ZW.G                                     0.00
+ Kwota PTU A                                14.96
+ Kwota PTU B                                 0.00
+ Kwota PTU D                                 0.00
+ SUMA PTU                                  ´14.96
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Nale¿noœæ:                             PLN 80.00
+ Iloœæ paragonów:                               1
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   NARASTAJ¥CO                   
+ Kwota PTU A                               411.40
+ Kwota PTU B                             15409.00
+ Kwota PTU D                                 0.00
+ SUMA PTU                               ´15820.40
+ Nale¿noœæ:                         PLN 210224.80
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Iloœæ pozycji:                                27
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ #1 8.Administrator                        ¡20:37
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       0DF7DA705E8CB98D8D0AEBAB34773017 EA¬      
+                    »BAV 11006958                
+ ‡CRC:7ACD86D0                                   
+                                                 
+                                                 
+                                                 
+ P:90e6d7b90956faea34bb79f5730d4750a149da9f      
+ C:eecb5aef1458d264ba25f4bcc99b8b9a              
+ DP:0cffa4ddc4174116ecc9ffce0980bf081913ccee     
+                                                 
+ SPIS TREŒCI:                                    
+                                                 
+ 29-05-2015 000004740 03 000000000 0000001887    
+ 29-05-2015 000004741 03 000000000 0000007752    
+ 14-06-2015 000004742 01 000004170 0000021675    
+ 14-06-2015 000004743 02 000000557 0000023103    
+ Podpis S:       92e101cf9e4d38f59545bb8e6e0c5c51
+ Podpis SP:      93c48cd019dbe63f41f31429ac3a2464
