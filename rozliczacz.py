@@ -10,16 +10,25 @@ from przetwarzaj_raport import przetwarzaj_raport
 from zapisz_bilety import zapisz_bilety
 from jaki_raport import jaki_raport
 from zapisz_do_pliku import zapisz_do_pliku
+from distutils import dir_util
 import tkinter as tk
 
 folder = r'I:\@001 DZIAŁALNOŚĆ\001 ORGANIZACJA KONCERTÓW\01 ROZLICZENIA KONCERTÓW\02 ROZLICZENIA BILETÓW\BGH16010347'
 lok_bilety = r'I:\@001 DZIAŁALNOŚĆ\001 ORGANIZACJA KONCERTÓW\01 ROZLICZENIA KONCERTÓW\02 ROZLICZENIA BILETÓW\bilety.txt'
+folder_c = r'C:\Users\Public\Documents\Novitus\CDData\BGH16010347'
 
-def rozliczacz(folder, lok_bilety):    
+def rozliczacz(folder, lok_bilety):        
     #folder = 'I:\\@001 DZIAŁALNOŚĆ\\001 ORGANIZACJA KONCERTÓW\\01 ROZLICZENIA KONCERTÓW\\02 ROZLICZENIA BILETÓW\\BAV11006958'
     #lok_bilety = 'I:\\@001 DZIAŁALNOŚĆ\\001 ORGANIZACJA KONCERTÓW\\01 ROZLICZENIA KONCERTÓW\\02 ROZLICZENIA BILETÓW\\bilety.txt'
     #lok_raport = 'F:\\Bilety_program\\BAV11006958\\1100\\1162.txt'                
+    
+    #Jaki jest ostatni rozliczony raport dobowy?
     ostatni = jaki_ostatni_dobowy(lok_bilety)
+    
+    """Skopiuj dane kasy fiskalnej z pamięci lokalnej komputera 
+    na dysk sieciowy, na którym będą dokonywane dalsze operacje"""
+    dir_util.copy_tree(str(folder_c), str(folder))
+    
     #lok_raport = 'C:\\Bilety\\BAV11006958\\1100\\' + str(ostatni+1) + '.txt'
     #label['text'] = 'Ostatni raport dobowy: ' + str(ostatni) + '\n'
     list_box.insert(tk.END,'Ostatni raport dobowy: ' + str(ostatni))
