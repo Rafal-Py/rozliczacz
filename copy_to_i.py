@@ -18,6 +18,6 @@ def copy_to_i(folder_c, folder):
     dir_util.copy_tree(str(folder_c), str(folder))    
 
 if __name__ == "__main__":
-    folder = Path(r'I:\@001 DZIAŁALNOŚĆ\001 ORGANIZACJA KONCERTÓW\01 ROZLICZENIA KONCERTÓW\02 ROZLICZENIA BILETÓW\BGH16010347')
+    folder = Path(r'\\192.168.1.3\@001 DZIAŁALNOŚĆ\001 ORGANIZACJA KONCERTÓW\01 ROZLICZENIA KONCERTÓW\02 ROZLICZENIA BILETÓW\BGH16010347')
     #folder = Path(r'C:\Python\BGH16010347')
     copy_to_i(folder_c, folder)

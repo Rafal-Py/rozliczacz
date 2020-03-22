@@ -13,8 +13,8 @@ from zapisz_do_pliku import zapisz_do_pliku
 from distutils import dir_util
 import tkinter as tk
 
-folder = r'I:\@001 DZIAŁALNOŚĆ\001 ORGANIZACJA KONCERTÓW\01 ROZLICZENIA KONCERTÓW\02 ROZLICZENIA BILETÓW\BGH16010347'
-lok_bilety = r'I:\@001 DZIAŁALNOŚĆ\001 ORGANIZACJA KONCERTÓW\01 ROZLICZENIA KONCERTÓW\02 ROZLICZENIA BILETÓW\bilety.txt'
+folder = r'\\192.168.1.3\@001 DZIAŁALNOŚĆ\001 ORGANIZACJA KONCERTÓW\01 ROZLICZENIA KONCERTÓW\02 ROZLICZENIA BILETÓW\BGH16010347'
+lok_bilety = r'\\192.168.1.3\@001 DZIAŁALNOŚĆ\001 ORGANIZACJA KONCERTÓW\01 ROZLICZENIA KONCERTÓW\02 ROZLICZENIA BILETÓW\bilety.txt'
 folder_c = r'C:\Users\Public\Documents\Novitus\CDData\BGH16010347'
 
 def rozliczacz(folder, lok_bilety):        
