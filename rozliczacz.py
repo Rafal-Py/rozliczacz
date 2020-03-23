@@ -89,7 +89,7 @@ list_box.pack(side = 'left', fill = 'both', expand = 1)
 scroll.pack(side = 'right', fill = 'y')
 
 list_box.insert(tk.END,'Ostatni raport dobowy: ' + str(ostatni))
-list_box.insert(tk.END,'Data               Nr       VAT')
+list_box.insert(tk.END,'Data               Nr    VAT')
 for line in wczytaj_dotk(lok_bilety):
     list_box.insert(tk.END, line)
 
