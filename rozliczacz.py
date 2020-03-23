@@ -10,29 +10,31 @@ from przetwarzaj_raport import przetwarzaj_raport
 from zapisz_bilety import zapisz_bilety
 from jaki_raport import jaki_raport
 from zapisz_do_pliku import zapisz_do_pliku
+from wczytaj_bilety_dotk import wczytaj_dotk
 from distutils import dir_util
 import tkinter as tk
 
-folder = r'\\192.168.1.3\@001 DZIAŁALNOŚĆ\001 ORGANIZACJA KONCERTÓW\01 ROZLICZENIA KONCERTÓW\02 ROZLICZENIA BILETÓW\BGH16010347'
-lok_bilety = r'\\192.168.1.3\@001 DZIAŁALNOŚĆ\001 ORGANIZACJA KONCERTÓW\01 ROZLICZENIA KONCERTÓW\02 ROZLICZENIA BILETÓW\bilety.txt'
+#Na czas testów te lokalizacje są wyłączone
+#folder = r'\\192.168.1.3\@001 DZIAŁALNOŚĆ\001 ORGANIZACJA KONCERTÓW\01 ROZLICZENIA KONCERTÓW\02 ROZLICZENIA BILETÓW\BGH16010347'
+#lok_bilety = r'\\192.168.1.3\@001 DZIAŁALNOŚĆ\001 ORGANIZACJA KONCERTÓW\01 ROZLICZENIA KONCERTÓW\02 ROZLICZENIA BILETÓW\bilety.txt'
 folder_c = r'C:\Users\Public\Documents\Novitus\CDData\BGH16010347'
 
-def rozliczacz(folder, lok_bilety):        
-    #folder = 'I:\\@001 DZIAŁALNOŚĆ\\001 ORGANIZACJA KONCERTÓW\\01 ROZLICZENIA KONCERTÓW\\02 ROZLICZENIA BILETÓW\\BAV11006958'
-    #lok_bilety = 'I:\\@001 DZIAŁALNOŚĆ\\001 ORGANIZACJA KONCERTÓW\\01 ROZLICZENIA KONCERTÓW\\02 ROZLICZENIA BILETÓW\\bilety.txt'
-    #lok_raport = 'F:\\Bilety_program\\BAV11006958\\1100\\1162.txt'                
-    
-    #Jaki jest ostatni rozliczony raport dobowy?
-    ostatni = jaki_ostatni_dobowy(lok_bilety)
-    
-    """Skopiuj dane kasy fiskalnej z pamięci lokalnej komputera 
-    na dysk sieciowy, na którym będą dokonywane dalsze operacje"""
-    dir_util.copy_tree(str(folder_c), str(folder))
+#Na czas testów, te lokalizacje są obowiązujące
+folder = r'C:\Python\rozliczacz-git\BGH16010347'
+lok_bilety = r'C:\Python\rozliczacz-git\bilety.txt'
+#lok_raport = 'F:\\Bilety_program\\BAV11006958\\1100\\1162.txt'   
+
+def rozliczacz(folder, lok_bilety, ostatni):        
+    #Skopiuj dane kasy fiskalnej z pamięci lokalnej komputera 
+    #na dysk sieciowy, na którym będą dokonywane dalsze operacje
+    try:
+        dir_util.copy_tree(str(folder_c), str(folder))
+    except:
+        pass
     
     #lok_raport = 'C:\\Bilety\\BAV11006958\\1100\\' + str(ostatni+1) + '.txt'
     #label['text'] = 'Ostatni raport dobowy: ' + str(ostatni) + '\n'
-    list_box.insert(tk.END,'Ostatni raport dobowy: ' + str(ostatni))
-    list_box.insert(tk.END,'Data               Nr       VAT')    
+    
     text_wynik = []
     while True:
         lok_raport = jaki_raport(ostatni, folder)    
@@ -40,10 +42,10 @@ def rozliczacz(folder, lok_bilety):
         if not os.path.isfile(lok_raport):        
             break
         else:
-            slownik = {}        
-            slownik['numer raportu'] = ostatni+1
-            przetwarzaj_raport(ostatni, slownik, lok_raport)
-            string = zapisz_bilety(slownik)
+            raport_dobowy = {}        
+            raport_dobowy['numer raportu'] = ostatni+1
+            przetwarzaj_raport(ostatni, raport_dobowy, lok_raport)
+            string = zapisz_bilety(raport_dobowy)
             zapisz_do_pliku(string, lok_bilety)
             text_wynik.append(string.strip())
             ostatni = jaki_ostatni_dobowy(lok_bilety)       
@@ -68,7 +70,10 @@ upper_label.place(relwidth=0.65, relheight=1)
 #entry = tk.Entry(frame, font = 40)
 #entry.place(relwidth=0.65, relheight=1)
 
-button = tk.Button(frame, text="Rozlicz raporty", font = ('Gill Sans MT', 18), command = lambda: rozliczacz(folder, lok_bilety))
+#Jaki jest ostatni rozliczony raport dobowy?
+ostatni = jaki_ostatni_dobowy(lok_bilety)
+
+button = tk.Button(frame, text="Rozlicz raporty", font = ('Gill Sans MT', 18), command = lambda: rozliczacz(folder, lok_bilety, ostatni))
 button.place(relx=0.7, relheight=1, relwidth=0.3)
 
 lower_frame = tk.Frame(root, bg='#80c1ff', bd=5)
@@ -83,8 +88,9 @@ list_box.config(yscrollcommand = scroll.set)
 list_box.pack(side = 'left', fill = 'both', expand = 1)
 scroll.pack(side = 'right', fill = 'y')
 
+list_box.insert(tk.END,'Ostatni raport dobowy: ' + str(ostatni))
+list_box.insert(tk.END,'Data               Nr       VAT')
+for line in wczytaj_dotk(lok_bilety):
+    list_box.insert(tk.END, line)
+
 root.mainloop()
-
-
-
-#rozliczacz()
