@@ -1,0 +1,95 @@
+ Plik:                                   0019.txt
+ Zawartoœæ pliku:                    DANE WYDRUKU
+ Wersja pliku:                           1.00.110
+ Typ urz¹dzenia:                 KASA E  1.00.001
+ Rozmiar linii:                                48
+ Urz¹dzenie:                          NANO E 1.01
+ Nr unikatowy:                        BGH16010347
+ Wersja Kopii E:                         1.00.200
+ Noœnik Kopii E:                           SDCARD
+ Plik utworzono:                 14-02-2020 15:18
+ Nr raportu:                                   19
+ Data raportu:                   14-02-2020 00:00
+ Data wydruku od:                14-02-2020 15:18
+ Data wydruku do:                14-02-2020 15:18
+ Nr wydruku od:                               144
+ Nr wydruku do:                               144
+ Data paragonu od:               00-00-0000 00:00
+ Data paragonu do:               00-00-0000 00:00
+ Nr paragonu od:                                0
+ Nr paragonu do:                                0
+ Data faktury od:                00-00-0000 00:00
+ Data faktury do:                00-00-0000 00:00
+ Nr faktury od:                                 0
+ Nr faktury do:                                 0
+ Nr zerowania od:                               0
+ Nr zerowania do:                               0
+ Rozmiar Nag³ówka Pliku:                     1734
+ Rozmiar etykiet danych:                      153
+ Offset Danych Wydruku:                      1887
+ Rozmiar Danych Wydruku:                     2499
+ Offset Spisu Treœci:                        4692
+ Rozmiar Spisu Treœci:                         51
+ Podpis N:       9fc1494f6dd7a746b8205292d10f23ef
+ Podpis NP:      6a69494714d7adca72e7419a04418d92
+                                                 
+ DANE WYDRUKÓW:                                  
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©§
+ 14-02-2020                              °W000144
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.  R A P O R T   F I S K A L N Y   D O B O W Y   
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ PTU  A                                    23.00%
+ PTU  B                                     8.00%
+ PTU  C                                     5.00%
+ PTU  D                                     0.00%
+ E                                      SP.ZW.PTU
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 14-02-2020                     Nr raportu:  0019
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.A                                     0.00
+ SP.OP.B                                     0.00
+ SP.OP.C                                     0.00
+ SP.OP.D                                     0.00
+ SP.ZW.E                                     0.00
+ Kwota PTU A                                 0.00
+ Kwota PTU B                                 0.00
+ Kwota PTU C                                 0.00
+ SUMA PTU                                   ´0.00
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Nale¿noœæ:                              PLN 0.00
+ Iloœæ paragonów:                               0
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   NARASTAJ¥CO                   
+ Kwota PTU A                                 7.48
+ Kwota PTU B                               481.50
+ Kwota PTU C                                 0.00
+ Kwota PTU D                                 0.00
+ SUMA PTU                                 ´488.98
+ Nale¿noœæ:                           PLN 6540.00
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Iloœæ pozycji:                                24
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ #1                                        ¡15:18
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       2B8A9D5CBC8A4590155CF3779D9B7F46 8E¬      
+                    »BGH 16010347                
+ ‡CRC:1CF30334                                   
+                                                 
+                                                 
+                                                 
+ P:922ea5f70b1ff13d605268461ba3dd2b61673622      
+ C:12262f6e8f28d83917be6cbce1d98392              
+ DP:0706673d24be4760e7a021639eb7ab73af86be68     
+                                                 
+ SPIS TREŒCI:                                    
+                                                 
+ 14-02-2020 000000144 02 000000019 0000001887    
+ Podpis S:       9807bc68ffd02b176ffb281aa9fb2170
+ Podpis SP:      48dd6314d85b59f7f616a143efcf0418

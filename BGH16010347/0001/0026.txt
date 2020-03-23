@@ -1,0 +1,124 @@
+ Plik:                                   0026.txt
+ Zawartoœæ pliku:                    DANE WYDRUKU
+ Wersja pliku:                           1.00.110
+ Typ urz¹dzenia:                 KASA E  1.00.001
+ Rozmiar linii:                                48
+ Urz¹dzenie:                          NANO E 1.01
+ Nr unikatowy:                        BGH16010347
+ Wersja Kopii E:                         1.00.200
+ Noœnik Kopii E:                           SDCARD
+ Plik utworzono:                 20-02-2020 15:30
+ Nr raportu:                                   26
+ Data raportu:                   20-02-2020 00:00
+ Data wydruku od:                20-02-2020 15:29
+ Data wydruku do:                20-02-2020 15:30
+ Nr wydruku od:                               193
+ Nr wydruku do:                               194
+ Data paragonu od:               20-02-2020 15:30
+ Data paragonu do:               20-02-2020 15:30
+ Nr paragonu od:                              157
+ Nr paragonu do:                              157
+ Data faktury od:                00-00-0000 00:00
+ Data faktury do:                00-00-0000 00:00
+ Nr faktury od:                                 0
+ Nr faktury do:                                 0
+ Nr zerowania od:                               0
+ Nr zerowania do:                               0
+ Rozmiar Nag³ówka Pliku:                     1734
+ Rozmiar etykiet danych:                      153
+ Offset Danych Wydruku:                      1887
+ Rozmiar Danych Wydruku:                     3927
+ Offset Spisu Treœci:                        6120
+ Rozmiar Spisu Treœci:                        102
+ Podpis N:       9966a7c49afffeeb217a3ec36d3013f7
+ Podpis NP:      60a7c7cd5d4b3571a1255f73ec48143e
+                                                 
+ DANE WYDRUKÓW:                                  
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©¤
+ 20-02-2020¸                             °W000193
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.      « P A R A G O N   F I S K A L N Y «       
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Bilet wstêpu 2*40.00                     ¨80.00B
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ RAZEM:                                    80.00 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.B: 80.00 PTU 8.00%                   ‘5.93
+ SUMA PTU                                   ´5.93
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.S U M A :                     P L N · 8 0 . 0 0 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ F157¦ #1                                  ¡15:30
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       3C30B00286E0A263905CD101EC6E3071 39¬      
+                    »BGH 16010347                
+ Gotówka:                                   80.00
+ ‡CRC:0062C5CD                                   
+                                                 
+                                                 
+                                                 
+              Orkiestra Symfoniczna              
+            im. Karola Namys³owskiego            
+                    w Zamoœciu                   
+                ul. Partyzantów 2                
+                  22-400 Zamoœæ                  
+ NIP: 922-10-71-428                            ©§
+ 20-02-2020                              °W000194
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.  R A P O R T   F I S K A L N Y   D O B O W Y   
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ PTU  A                                    23.00%
+ PTU  B                                     8.00%
+ PTU  C                                     5.00%
+ PTU  D                                     0.00%
+ E                                      SP.ZW.PTU
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 20-02-2020                     Nr raportu:  0026
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ SP.OP.A                                     0.00
+ SP.OP.B                                    74.07
+ SP.OP.C                                     0.00
+ SP.OP.D                                     0.00
+ SP.ZW.E                                     0.00
+ Kwota PTU A                                 0.00
+ Kwota PTU B                                 5.93
+ Kwota PTU C                                 0.00
+ SUMA PTU                                   ´5.93
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Nale¿noœæ:                             PLN 80.00
+ Iloœæ paragonów:                               1
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   NARASTAJ¥CO                   
+ Kwota PTU A                                 7.48
+ Kwota PTU B                               625.21
+ Kwota PTU C                                 0.00
+ Kwota PTU D                                 0.00
+ SUMA PTU                                 ´632.69
+ Nale¿noœæ:                           PLN 8480.00
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Iloœæ pozycji:                                24
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ #1                                        ¡15:30
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       A6097582934CE9E9EC16E83F4B8161FC 02¬      
+                    »BGH 16010347                
+ ‡CRC:043CB027                                   
+                                                 
+                                                 
+                                                 
+ P:9a82d2d5c6c73cfcfb1db2d94a680bd1f4ef2da1      
+ C:3229756c11903d5f02da043487d50429              
+ DP:77d5aa3728e0a95b129026c3066892b614f49cf0     
+                                                 
+ SPIS TREŒCI:                                    
+                                                 
+ 20-02-2020 000000193 01 000000157 0000001887    
+ 20-02-2020 000000194 02 000000026 0000003315    
+ Podpis S:       8790b821016095bad64427d7e7e5e040
+ Podpis SP:      c7fc5b40fa7b8ce138a085b413782820
