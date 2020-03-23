@@ -24,7 +24,10 @@ folder = r'C:\Python\rozliczacz-git\BGH16010347'
 lok_bilety = r'C:\Python\rozliczacz-git\bilety.txt'
 #lok_raport = 'F:\\Bilety_program\\BAV11006958\\1100\\1162.txt'   
 
-def rozliczacz(folder, lok_bilety, ostatni):        
+def rozliczacz(folder, lok_bilety, ostatni):
+    """Główny skrypt działania programu, który przetwarza raporty dobowe w oddzielnych plikach .txt
+    Przetworzone wyniki zapisuje w pliku bilety.txt"""
+            
     #Skopiuj dane kasy fiskalnej z pamięci lokalnej komputera 
     #na dysk sieciowy, na którym będą dokonywane dalsze operacje
     try:
@@ -89,7 +92,7 @@ list_box.pack(side = 'left', fill = 'both', expand = 1)
 scroll.pack(side = 'right', fill = 'y')
 
 list_box.insert(tk.END,'Ostatni raport dobowy: ' + str(ostatni))
-list_box.insert(tk.END,'Data               Nr       VAT')
+list_box.insert(tk.END,'Data               Nr    VAT')
 for line in wczytaj_dotk(lok_bilety):
     list_box.insert(tk.END, line)
 
